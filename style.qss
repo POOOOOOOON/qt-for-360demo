@@ -1,0 +1,175 @@
+QPushButton#check
+{
+	border-image: url(:/image/1.png);
+}
+QPushButton#check::hover
+{
+	border-image: url(:/image/11.png);
+}
+QPushButton#check::press
+{
+	border-image: url(:/image/11.png);
+}
+
+QPushButton#find
+{
+	border-image: url(:/image/2.png);
+}
+QPushButton#find::hover
+{
+	border-image: url(:/image/22.png);
+}
+QPushButton#find::press
+{
+	border-image: url(:/image/22.png);
+}
+
+QPushButton#bug
+{
+	border-image: url(:/image/3.png);
+}
+QPushButton#bug::hover
+{
+	border-image: url(:/image/33.png);
+}
+QPushButton#bug::press
+{
+	border-image: url(:/image/33.png);
+}
+
+QPushButton#system
+{
+	border-image: url(:/image/4.png);
+}
+QPushButton#system::hover
+{
+	border-image: url(:/image/44.png);
+}
+QPushButton#system::press
+{
+	border-image: url(:/image/44.png);
+}
+
+QPushButton#clear
+{
+	border-image: url(:/image/5.png);
+}
+QPushButton#clear::hover
+{
+	border-image: url(:/image/55.png);
+}
+QPushButton#clear::press
+{
+	border-image: url(:/image/55.png);
+}
+
+QPushButton#speed
+{
+	border-image: url(:/image/6.png);
+}
+QPushButton#speed::hover
+{
+	border-image: url(:/image/66.png);
+}
+QPushButton#speed::press
+{
+	border-image: url(:/image/66.png);
+}
+
+QPushButton#diag
+{
+	border-image: url(:/image/7.png);
+}
+QPushButton#diag::hover
+{
+	border-image: url(:/image/77.png);
+}
+QPushButton#diag::press
+{
+	border-image: url(:/image/77.png);
+}
+
+QPushButton#butler
+{
+	border-image: url(:/image/8.png);
+}
+QPushButton#butler::hover
+{
+	border-image: url(:/image/88.png);
+}
+QPushButton#butler::press
+{
+	border-image: url(:/image/88.png);
+}
+
+QPushButton#function
+{
+	border-image: url(:/image/9.png);
+}
+QPushButton#function::hover
+{
+	border-image: url(:/image/99.png);
+}
+QPushButton#function::press
+{
+	border-image: url(:/image/99.png);
+}
+
+QPushButton#close
+{
+	border-image: url(:/image/close.png);
+}
+QPushButton#close::hover
+{
+	border-image: url(:/image/close2.png);
+}
+QPushButton#close::press
+{
+	border-image: url(:/image/close2.png);
+}
+
+QPushButton#max
+{
+	border-image: url(:/image/max.png);
+}
+QPushButton#max::hover
+{
+	border-image: url(:/image/max2.png);
+}
+QPushButton#max::press
+{
+	border-image: url(:/image/max2.png);
+}
+
+QPushButton#min
+{
+	border-image: url(:/image/min.png);
+}
+QPushButton#min::hover
+{
+	border-image: url(:/image/min2.png);
+}
+QPushButton#min::press
+{
+	border-image: url(:/image/min2.png);
+}
+
+QPushButton#set
+{
+	border-image: url(:/image/cai.png);
+}
+QPushButton#set::hover
+{
+	border-image: url(:/image/cai2.png);
+}
+QPushButton#set::press
+{
+	border-image: url(:/image/cai2.png);
+}
+
+QLabel#label_2
+{
+	border-image: url(:/image/360logo.png);
+}
+
+

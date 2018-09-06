@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/4.png</file>
+        <file>image/5.png</file>
+        <file>image/6.png</file>
+        <file>image/7.png</file>
+        <file>image/8.png</file>
+        <file>image/33.png</file>
+        <file>image/44.png</file>
+        <file>image/55.png</file>
+        <file>image/66.png</file>
+        <file>image/77.png</file>
+        <file>image/88.png</file>
+        <file>image/99.png</file>
+        <file>image/360logo.png</file>
+        <file>image/close2.png</file>
+        <file>image/frame.png</file>
+        <file>image/max.png</file>
+        <file>image/max2.png</file>
+        <file>image/min.png</file>
+        <file>image/min2.png</file>
+        <file>style.qss</file>
+        <file>image/9.png</file>
+        <file>image/11.png</file>
+        <file>image/22.png</file>
+        <file>image/close.png</file>
+        <file>image/cai.png</file>
+        <file>image/cai2.png</file>
+        <file>image/360.ico</file>
+    </qresource>
+</RCC>
